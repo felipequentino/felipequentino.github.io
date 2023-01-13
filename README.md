@@ -1,2 +1,2 @@
 # felipequentino.github.io
-Site com os links para o Codepen com as questões do CI&T.
+Minhas respostas do estagio de 2022 da CIeT. Espero que seja útil para alguem, o enunciado das questoes vai estar no inicio de cada codigo, de forma comentada, tinha um planejamento de gravar videos com o intuito de mostrar "como eu pensei nisso? quais foram minhas motivacoes, ideia iniciais?" mas desanimei, acho que um dia farei, mas por enquanto, achei interessante deixar aqui, há os arquivos do JS para download e o site que os levarão para o codepen com os códigos prontos para serem executados. espero que seja útil!
